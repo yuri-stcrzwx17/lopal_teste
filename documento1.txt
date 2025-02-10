@@ -1,4 +1,4 @@
-programa 1
+programa Um
 
 Linha 1 do programa
 
@@ -6,4 +6,4 @@ Linha 2 do programa
 
 Linha 3 do programa
 
-Linha aleatoria
+Fim do programa 
